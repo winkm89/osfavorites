@@ -1,6 +1,11 @@
 # osfavorites
 A simple curated list of useful/great open source projects. Alphabetical sorted. Not more that 5 pojects for each category.
 
+### Business Intelligence / Data Mining
+* [KNIME](https://www.knime.com/) - A popular open source data analytics, reporting and integration platform
+* [Orange](https://orange.biolab.si/) - An open-source data visualization, machine learning and data mining toolkit.
+* [spagobi](http://www.spagobi.org/) - an Open Source Business Intelligence suite
+
 ### Bug Tracking / Projekt Management
 * [mantisBT](http://www.mantisbt.org/) - A lightweight issue tracker based on PHP.
 * [Tuleap](https://www.tuleap.org/) - An all in one plattform fo issue tracking, project management, document management, test management and collaboration, based on PHP.
@@ -8,7 +13,11 @@ A simple curated list of useful/great open source projects. Alphabetical sorted.
 ### Customer Relationship Management (CRM)
 * [SuiteCRM](https://suitecrm.com/) - A PHP based CRM, originated as a fork of SougarCRM.
 
-### Databases
+### Database Clients
+* DBeaver(https://dbeaver.jkiss.org/) - A multi-platform database tool for MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird and Derby.
+* HeidiSQL(https://www.heidisql.com/) - A desktop database administation tool for MySQL, MariaDB, Microsoft SQL and PostgreSQL.
+
+### Database Servers
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
 * [MySQL](https://dev.mysql.com/downloads/) - Maybe world's most used open source database servers.
 * [PostgreSQL](https://www.postgresql.org/) - An other famous open source database server.
