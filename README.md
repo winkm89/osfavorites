@@ -14,8 +14,8 @@ A simple curated list of useful/great open source projects. Alphabetical sorted.
 * [SuiteCRM](https://suitecrm.com/) - A PHP based CRM, originated as a fork of SougarCRM.
 
 ### Database Clients
-* DBeaver(https://dbeaver.jkiss.org/) - A multi-platform database tool for MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird and Derby.
-* HeidiSQL(https://www.heidisql.com/) - A desktop database administation tool for MySQL, MariaDB, Microsoft SQL and PostgreSQL.
+* [DBeaver](https://dbeaver.jkiss.org/) - A multi-platform database tool for MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird and Derby.
+* [HeidiSQL](https://www.heidisql.com/) - A desktop database administation tool for MySQL, MariaDB, Microsoft SQL and PostgreSQL.
 
 ### Database Servers
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
