@@ -1,5 +1,5 @@
 # osfavorites
-A simple curated list of useful/great open source projects. Alphabetical sorted. Not more that 5 pojects for each category.
+A simple curated list of useful/great open source software projects. Alphabetical sorted. Not more that 5 pojects for each category.
 
 ### Business Intelligence / Data Mining
 * [KNIME](https://www.knime.com/) - A popular open source data analytics, reporting and integration platform
