@@ -19,7 +19,7 @@ A simple curated list of useful/great open source projects. Alphabetical sorted.
 
 ### Database Servers
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
-* [MySQL](https://dev.mysql.com/downloads/) - Maybe world's most used open source database servers.
+* [MySQL](https://dev.mysql.com/downloads/) - Maybe world's most used open source database server.
 * [PostgreSQL](https://www.postgresql.org/) - An other famous open source database server.
 
 ### Data transformation and ETL
