@@ -22,13 +22,13 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
 * [MySQL](https://dev.mysql.com/downloads/) - Maybe world's most used open source database server.
 * [PostgreSQL](https://www.postgresql.org/) - An other famous open source database server.
-* [Timescale](http://www.timescale.com/) - A time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL
+* [Timescale](http://www.timescale.com/) - A time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL.
 
 ### Data transformation and ETL
 * [Talend Open Studio for Data Integration](https://www.talend.com/products/data-integration/data-integration-open-studio/) - A popular ETL and data integration suite fo Windows, MacOS and Linux.
 
 ### Editors and IDEs
-* [Apache Netbeans](http://netbeans.apache.org/) - An popular IDE for Java, JavaScript, HTML5, PHP, C/C++ and more. Now an Apache project.
+* [Apache Netbeans](http://netbeans.apache.org/) - A popular IDE for Java, JavaScript, HTML5, PHP, C/C++ and more. Now an Apache project.
 * [Eclipse](https://www.eclipse.org/) - One of the most popular IDEs for almost all popular progamming langauges.
 * [MonoDevelop](http://www.monodevelop.com/) - A cross platform IDE for C#, F# and more.
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor and Notepad replacement.
