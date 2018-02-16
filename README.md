@@ -18,9 +18,11 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [HeidiSQL](https://www.heidisql.com/) - A desktop database administation tool for MySQL, MariaDB, Microsoft SQL and PostgreSQL.
 
 ### Database Servers
+* [Apache Cassandra](http://cassandra.apache.org/) - A distributed NoSQL database designed to handle large amounts of data across many commodity servers.
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
 * [MySQL](https://dev.mysql.com/downloads/) - Maybe world's most used open source database server.
 * [PostgreSQL](https://www.postgresql.org/) - An other famous open source database server.
+* [Timescale](http://www.timescale.com/) - A time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL
 
 ### Data transformation and ETL
 * [Talend Open Studio for Data Integration](https://www.talend.com/products/data-integration/data-integration-open-studio/) - A popular ETL and data integration suite fo Windows, MacOS and Linux.
