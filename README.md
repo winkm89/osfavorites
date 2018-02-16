@@ -25,6 +25,12 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Data transformation and ETL
 * [Talend Open Studio for Data Integration](https://www.talend.com/products/data-integration/data-integration-open-studio/) - A popular ETL and data integration suite fo Windows, MacOS and Linux.
 
+### Editors and IDEs
+* [Apache Netbeans](http://netbeans.apache.org/) - An popular IDE for Java, JavaScript, HTML5, PHP, C/C++ and more. Now an Apache project.
+* [Eclipse](https://www.eclipse.org/) - One of the most popular IDEs for almost all popular progamming langauges.
+* [MonoDevelop](http://www.monodevelop.com/) - A cross platform IDE for C#, F# and more.
+* [Notepad++](https://notepad-plus-plus.org/) - A source code editor and Notepad replacement.
+
 ### File Archiver
 * [7-Zip](http://7-zip.org/) - A popular file archiver for Windows. 
 
@@ -43,11 +49,8 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [Krita](https://krita.org/en/) - A graphics editor designed primarily for digital painting and animation purposes.
 * [Paint.Net](https://www.getpaint.net/) - A image and photo editing software for Windows.
 
-### Editors and IDEs
-* [Apache Netbeans](http://netbeans.apache.org/) - An popular IDE for Java, JavaScript, HTML5, PHP, C/C++ and more. Now an Apache project.
-* [Eclipse](https://www.eclipse.org/) - One of the most popular IDEs for almost all popular progamming langauges.
-* [MonoDevelop](http://www.monodevelop.com/) - A cross platform IDE for C#, F# and more.
-* [Notepad++](https://notepad-plus-plus.org/) - A source code editor and Notepad replacement.
+### Network Analytics & Visualization
+* [Gephi](https://gephi.org/) - A visualization and exploration software for all kinds of graphs and networks. For Windows, macOS and Linux.
 
 ### Operating Systems
 * [CentOS](https://www.centos.org/) - A Red Hat Enterprise Linux (RHEL) based Linux distribution for server and enterprise usage.
@@ -59,6 +62,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Video Editors
 * [OpenShot](https://www.openshot.org/) - A video editor for FreeBSD, Linux, macOS and Windows.
 * [ShotCut](https://shotcut.org/) - A video editor for FreeBSD, Linux, macOS and Windows.
+
+### Web Analytics
+* [Matomo](https://matomo.org/) - A popular open-source web analytics platform. Formely known as Piwik.
 
 ### Wikis
 * [Bookstack](https://www.bookstackapp.com/) - A simple PHP and Laravel based wiki software.
