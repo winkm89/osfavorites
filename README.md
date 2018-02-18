@@ -23,7 +23,7 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [MongoDB](https://www.mongodb.com/) - A document-oriented database using JSON-like documents with schemas. 
 
 *Key-Value*
-* [LevelDB](https://github.com/google/leveldb) -  A key-value storage library from Google
+* [LevelDB](https://github.com/google/leveldb) -  A key-value storage library from Google.
 
 *Relational* 
 * [MariaDB](http://mariadb.org/) - A popular fork of MySQL.
@@ -51,8 +51,12 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Finance
 * [GNUCash](http://www.gnucash.org/) - A personal and small-business financial-accounting software for Linux, macOS and Windows.
 
+### FTP Clients
+* [FileZilla](https://filezilla-project.org/) - A graphical cross-platform FTP, FTPS and SFTP client for Windows, Linux and macOS.
+* [WinSCP](https://winscp.net/) - A popular graphical SFTP, SCP and FTP client for Windows.
+
 ### Geographic Information System (GIS)
-* [QGIS](https://qgis.org/en/site/) - A cross-platform desktop geographic information system (GIS) for viewing, editing, and analysis of geospatial data
+* [QGIS](https://qgis.org/en/site/) - A cross-platform desktop geographic information system (GIS) for viewing, editing, and analysis of geospatial data.
 
 ### GUI Prototyping
 * [Pencil](http://pencil.evolus.vn/) - A simple GUI prototyping and mockup creation tool for Windows.
@@ -72,6 +76,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 
 ### Password Manager
 * [KeePass](https://keepass.info/) - A light-weight and easy-to-use password manager primarily for Windows.
+
+### SSH and Telnet Client
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - A popular SSH/Telnet Client and terminal emulator for Windows and Unix platforms.
 
 ### Video Editors
 * [OpenShot](https://www.openshot.org/) - A video editor for FreeBSD, Linux, macOS and Windows.
