@@ -46,7 +46,8 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor and Notepad replacement.
 
 ### File Archiver
-* [7-Zip](http://7-zip.org/) - A popular file archiver for Windows. 
+* [7-Zip](http://7-zip.org/) - A popular file archiver for Windows.
+* [PeaZip](http://www.peazip.org/) - A file archiver for Windows and ReactOS. Supports archiving to 7Z, ARC, BZ2, GZ, PEA, TAR, WIM, and ZIP archives.
 
 ### Finance
 * [GNUCash](http://www.gnucash.org/) - A personal and small-business financial-accounting software for Linux, macOS and Windows.
@@ -73,6 +74,7 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Operating Systems
 * [CentOS](https://www.centos.org/) - A Red Hat Enterprise Linux (RHEL) based Linux distribution for server and enterprise usage.
 * [ReactOS](http://reactos.org/) - A project for creating a open source version of Windows (alpha status).
+* [Scientific Linux](https://www.scientificlinux.org/) - A Red Hat Enterprise Linux (RHEL) based Linux distribution for scientific facilities.
 
 ### Password Manager
 * [KeePass](https://keepass.info/) - A light-weight and easy-to-use password manager primarily for Windows.
