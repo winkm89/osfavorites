@@ -1,12 +1,16 @@
 # osfavorites
 A simple curated list of useful/great open source software projects. Alphabetical sorted. Not more that 5 pojects for each category.
 
+### Audio Editors
+* [Audacity](http://www.audacityteam.org/) A popular cross-platform audio software for multi-track recording and editing.
+
 ### Business Intelligence / Data Mining
 * [KNIME](https://www.knime.com/) - A popular open source data analytics, reporting and integration platform
-* [Orange](https://orange.biolab.si/) - An open-source data visualization, machine learning and data mining toolkit.
-* [spagobi](http://www.spagobi.org/) - an Open Source Business Intelligence suite
+* [Orange](https://orange.biolab.si/) - An open source data visualization, machine learning and data mining toolkit.
+* [spagobi](http://www.spagobi.org/) - An open source Business Intelligence suite
+* [widestage](http://widestage.com/en)  - A Business Intelligence and reporting tool for mongodb, postgresql, Mysql, MS sql, oracle, & google bigQuery
 
-### Bug Tracking / Projekt Management
+### Bug Tracking / Project Management
 * [mantisBT](http://www.mantisbt.org/) - A lightweight issue tracker based on PHP.
 * [Tuleap](https://www.tuleap.org/) - An all in one plattform fo issue tracking, project management, document management, test management and collaboration, based on PHP.
 
@@ -39,6 +43,10 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Data transformation and ETL
 * [Talend Open Studio for Data Integration](https://www.talend.com/products/data-integration/data-integration-open-studio/) - A popular ETL and data integration suite fo Windows, MacOS and Linux.
 
+### Data Visualization
+* [Candela](https://candela.readthedocs.io) - An open-source suite of interoperable web visualization components. Can be used with JavaScript, Python and R.
+* [D3.js](https://d3js.org/) - A JavaScript library for creating HTML, SVG and CSS based visualizations.
+
 ### Editors and IDEs
 * [Apache Netbeans](http://netbeans.apache.org/) - A popular IDE for Java, JavaScript, HTML5, PHP, C/C++ and more. Now an Apache project.
 * [Eclipse](https://www.eclipse.org/) - One of the most popular IDEs for almost all popular progamming langauges.
@@ -56,7 +64,7 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [FileZilla](https://filezilla-project.org/) - A graphical cross-platform FTP, FTPS and SFTP client for Windows, Linux and macOS.
 * [WinSCP](https://winscp.net/) - A popular graphical SFTP, SCP and FTP client for Windows.
 
-### Geographic Information System (GIS)
+### Geographic Information Systems (GIS)
 * [QGIS](https://qgis.org/en/site/) - A cross-platform desktop geographic information system (GIS) for viewing, editing, and analysis of geospatial data.
 
 ### GUI Prototyping
