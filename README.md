@@ -2,7 +2,7 @@
 A simple curated list of useful/great open source software projects. Alphabetical sorted. Not more that 5 pojects for each category.
 
 ### Audio Editors
-* [Audacity](http://www.audacityteam.org/) A popular cross-platform audio software for multi-track recording and editing.
+* [Audacity](http://www.audacityteam.org/) - A popular cross-platform audio software for multi-track recording and editing.
 
 ### Business Intelligence / Data Mining
 * [KNIME](https://www.knime.com/) - A popular open source data analytics, reporting and integration platform
