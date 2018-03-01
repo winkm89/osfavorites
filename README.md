@@ -12,6 +12,7 @@ A simple curated list of useful/great open source software projects. Alphabetica
 
 ### Bug Tracking / Project Management
 * [mantisBT](http://www.mantisbt.org/) - A lightweight issue tracker based on PHP.
+* [Orangescrum](https://www.orangescrum.org/) - A flexible project and task management web application based on the CakePHP framework.
 * [Tuleap](https://www.tuleap.org/) - An all in one plattform fo issue tracking, project management, document management, test management and collaboration, based on PHP.
 
 ### Customer Relationship Management (CRM)
@@ -93,6 +94,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Video Editors
 * [OpenShot](https://www.openshot.org/) - A video editor for FreeBSD, Linux, macOS and Windows.
 * [ShotCut](https://shotcut.org/) - A video editor for FreeBSD, Linux, macOS and Windows.
+
+### VPN Clients
+* [OpenVPN](https://openvpn.net/) - OpenVPN can create secure point-to-point or site-to-site connections in routed or bridged configurations.
 
 ### Web Analytics
 * [Matomo](https://matomo.org/) - A popular open-source web analytics platform. Formely known as Piwik.
