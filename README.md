@@ -13,6 +13,7 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Bug Tracking / Project Management
 * [mantisBT](http://www.mantisbt.org/) - A lightweight issue tracker based on PHP.
 * [Orangescrum](https://www.orangescrum.org/) - A flexible project and task management web application based on the CakePHP framework.
+* [Redmine](http://www.redmine.org/) - A web-based project management and issue tracking tool written in Ruby on Rails.
 * [Tuleap](https://www.tuleap.org/) - An all in one plattform fo issue tracking, project management, document management, test management and collaboration, based on PHP.
 
 ### Customer Relationship Management (CRM)
@@ -76,6 +77,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 * [GIMP](https://www.gimp.org/) - A popular and powerful raster graphics editor for image retouching, editing and free-form drawing. 
 * [Krita](https://krita.org/en/) - A graphics editor designed primarily for digital painting and animation purposes.
 * [Paint.Net](https://www.getpaint.net/) - A image and photo editing software for Windows.
+
+### Mind Mapping
+* [Freeplane](https://www.freeplane.org/wiki/index.php/Main_Page) - A cross-plattform mind mapping tool written in Java.
 
 ### Network Analytics & Visualization
 * [Gephi](https://gephi.org/) - A visualization and exploration software for all kinds of graphs and networks. For Windows, macOS and Linux.
