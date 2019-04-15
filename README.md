@@ -96,6 +96,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Network Analytics & Visualization
 * [Gephi](https://gephi.org/) - A visualization and exploration software for all kinds of graphs and networks. For Windows, macOS and Linux.
 
+### Office Suite
+* [LibreOffice](https://www.libreoffice.org/) - The default open source office suite for Windows, macOS and Linux
+
 ### Operating Systems
 * [CentOS](https://www.centos.org/) - A Red Hat Enterprise Linux (RHEL) based Linux distribution for server and enterprise usage.
 * [ReactOS](http://reactos.org/) - A project for creating a open source version of Windows (alpha status).
