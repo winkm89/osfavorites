@@ -110,6 +110,9 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Rest Client
 * [Insomnia](https://github.com/getinsomnia/insomnia) - An open source cross-platform HTTP and GraphQL client 
 
+### Screenshot Tools
+* (Greenshot)(https://github.com/greenshot/greenshot/) - An open source screenshot software tool for Windows
+
 ### SSH and Telnet Client
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - A popular SSH/Telnet Client and terminal emulator for Windows and Unix platforms.
 
