@@ -126,6 +126,10 @@ A simple curated list of useful/great open source software projects. Alphabetica
 ### Web Analytics
 * [Matomo](https://matomo.org/) - A popular open-source web analytics platform. Formely known as Piwik.
 
+### Webserver bundles
+* [WampServer](http://www.wampserver.com/en/) - A Windows web development environment with  Apache2, PHP and MySQL/MariaDB
+* [XAMPP](https://www.apachefriends.org/) - A web development environment with apache, PHP, MariaDB and Perl
+
 ### Wikis
 * [Bookstack](https://www.bookstackapp.com/) - A simple PHP and Laravel based wiki software.
 * [DocuWiki](https://www.dokuwiki.org/) - A simple wiki which works on plain text files. Written in PHP.
